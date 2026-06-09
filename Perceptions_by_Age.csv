@@ -1,0 +1,85 @@
+,Age,MeasurementLabel,CrimeCategory,Estimate
+12,16-24,Perceived high level of anti-social behaviour,anti-social-behaviour,93.25999999999999
+13,16-24,Perceived problem with  people using or dealing drugs in the local area,drugs,153.16
+14,16-24,Perceived problem with abandoned or burnt out cars in the local area,anti-social-behaviour,0.69
+15,16-24,Perceived problem with litter or rubbish in the local area,anti-social-behaviour,174.11
+16,16-24,Perceived problem with noisy neighbours in the local area,anti-social-behaviour,69.45
+17,16-24,Perceived problem with people being drunk or rowdy in the local area,public-order,67.77
+18,16-24,Perceived problem with teenagers hanging around in the local area,anti-social-behaviour,42.22
+19,16-24,Perceived problem with vandalism and graffiti in the local area,criminal-damage-arson,94.2
+20,16-24,Worried about burglary,burglary,20.75
+21,16-24,Worried about car crime,vehicle-crime,13.1
+22,16-24,Worried about fraud,other-crime,2.56
+23,16-24,Worried about violent crime,violent-crime,17.5
+24,25-34,Perceived high level of anti-social behaviour,anti-social-behaviour,30.72
+25,25-34,Perceived problem with  people using or dealing drugs in the local area,drugs,76.92
+26,25-34,Perceived problem with abandoned or burnt out cars in the local area,anti-social-behaviour,2.44
+27,25-34,Perceived problem with litter or rubbish in the local area,anti-social-behaviour,112.06
+28,25-34,Perceived problem with noisy neighbours in the local area,anti-social-behaviour,29.52
+29,25-34,Perceived problem with people being drunk or rowdy in the local area,public-order,42.92
+30,25-34,Perceived problem with teenagers hanging around in the local area,anti-social-behaviour,57.18000000000001
+31,25-34,Perceived problem with vandalism and graffiti in the local area,criminal-damage-arson,37.43
+32,25-34,Worried about burglary,burglary,30.0
+33,25-34,Worried about car crime,vehicle-crime,15.02
+34,25-34,Worried about fraud,other-crime,36.370000000000005
+35,25-34,Worried about violent crime,violent-crime,29.650000000000002
+36,35-44,Perceived high level of anti-social behaviour,anti-social-behaviour,30.369999999999997
+37,35-44,Perceived problem with  people using or dealing drugs in the local area,drugs,69.58
+38,35-44,Perceived problem with abandoned or burnt out cars in the local area,anti-social-behaviour,14.389999999999999
+39,35-44,Perceived problem with litter or rubbish in the local area,anti-social-behaviour,96.5
+40,35-44,Perceived problem with noisy neighbours in the local area,anti-social-behaviour,20.61
+41,35-44,Perceived problem with people being drunk or rowdy in the local area,public-order,31.259999999999998
+42,35-44,Perceived problem with teenagers hanging around in the local area,anti-social-behaviour,39.18
+43,35-44,Perceived problem with vandalism and graffiti in the local area,criminal-damage-arson,47.05
+44,35-44,Worried about burglary,burglary,30.12
+45,35-44,Worried about car crime,vehicle-crime,46.11
+46,35-44,Worried about fraud,other-crime,55.59
+47,35-44,Worried about violent crime,violent-crime,17.32
+48,45-54,Perceived high level of anti-social behaviour,anti-social-behaviour,51.54
+49,45-54,Perceived problem with  people using or dealing drugs in the local area,drugs,115.03999999999999
+50,45-54,Perceived problem with abandoned or burnt out cars in the local area,anti-social-behaviour,16.18
+51,45-54,Perceived problem with litter or rubbish in the local area,anti-social-behaviour,96.81
+52,45-54,Perceived problem with noisy neighbours in the local area,anti-social-behaviour,27.98
+53,45-54,Perceived problem with people being drunk or rowdy in the local area,public-order,51.69
+54,45-54,Perceived problem with teenagers hanging around in the local area,anti-social-behaviour,51.94
+55,45-54,Perceived problem with vandalism and graffiti in the local area,criminal-damage-arson,43.23
+56,45-54,Worried about burglary,burglary,17.17
+57,45-54,Worried about car crime,vehicle-crime,23.41
+58,45-54,Worried about fraud,other-crime,62.83
+59,45-54,Worried about violent crime,violent-crime,20.96
+60,55-64,Perceived high level of anti-social behaviour,anti-social-behaviour,16.78
+61,55-64,Perceived problem with  people using or dealing drugs in the local area,drugs,56.26
+62,55-64,Perceived problem with abandoned or burnt out cars in the local area,anti-social-behaviour,11.51
+63,55-64,Perceived problem with litter or rubbish in the local area,anti-social-behaviour,55.47
+64,55-64,Perceived problem with noisy neighbours in the local area,anti-social-behaviour,24.36
+65,55-64,Perceived problem with people being drunk or rowdy in the local area,public-order,16.669999999999998
+66,55-64,Perceived problem with teenagers hanging around in the local area,anti-social-behaviour,32.32
+67,55-64,Perceived problem with vandalism and graffiti in the local area,criminal-damage-arson,18.490000000000002
+68,55-64,Worried about burglary,burglary,34.71
+69,55-64,Worried about car crime,vehicle-crime,16.58
+70,55-64,Worried about fraud,other-crime,74.81
+71,55-64,Worried about violent crime,violent-crime,22.55
+72,65-74,Perceived high level of anti-social behaviour,anti-social-behaviour,9.530000000000001
+73,65-74,Perceived problem with  people using or dealing drugs in the local area,drugs,50.6
+74,65-74,Perceived problem with abandoned or burnt out cars in the local area,anti-social-behaviour,2.11
+75,65-74,Perceived problem with litter or rubbish in the local area,anti-social-behaviour,80.03
+76,65-74,Perceived problem with noisy neighbours in the local area,anti-social-behaviour,15.77
+77,65-74,Perceived problem with people being drunk or rowdy in the local area,public-order,19.119999999999997
+78,65-74,Perceived problem with teenagers hanging around in the local area,anti-social-behaviour,27.53
+79,65-74,Perceived problem with vandalism and graffiti in the local area,criminal-damage-arson,23.1
+80,65-74,Worried about burglary,burglary,31.880000000000003
+81,65-74,Worried about car crime,vehicle-crime,18.42
+82,65-74,Worried about fraud,other-crime,78.39
+83,65-74,Worried about violent crime,violent-crime,23.799999999999997
+84,75+,Perceived high level of anti-social behaviour,anti-social-behaviour,5.08
+85,75+,Perceived problem with  people using or dealing drugs in the local area,drugs,35.92
+86,75+,Perceived problem with abandoned or burnt out cars in the local area,anti-social-behaviour,1.52
+87,75+,Perceived problem with litter or rubbish in the local area,anti-social-behaviour,63.94
+88,75+,Perceived problem with noisy neighbours in the local area,anti-social-behaviour,4.970000000000001
+89,75+,Perceived problem with people being drunk or rowdy in the local area,public-order,8.89
+90,75+,Perceived problem with teenagers hanging around in the local area,anti-social-behaviour,4.75
+91,75+,Perceived problem with vandalism and graffiti in the local area,criminal-damage-arson,9.6
+92,75+,Worried about burglary,burglary,23.05
+93,75+,Worried about car crime,vehicle-crime,19.200000000000003
+94,75+,Worried about fraud,other-crime,59.28
+95,75+,Worried about violent crime,violent-crime,10.46

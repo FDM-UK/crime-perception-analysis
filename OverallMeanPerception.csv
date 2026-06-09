@@ -1,0 +1,13 @@
+MeasurementLabel,CrimeCategory,Estimate
+Perceived high level of anti-social behaviour,anti-social-behaviour,11.299047619047618
+Perceived problem with  people using or dealing drugs in the local area,drugs,26.546666666666667
+Perceived problem with abandoned or burnt out cars in the local area,anti-social-behaviour,2.3257142857142856
+Perceived problem with litter or rubbish in the local area,anti-social-behaviour,32.329523809523806
+Perceived problem with noisy neighbours in the local area,anti-social-behaviour,9.174285714285714
+Perceived problem with people being drunk or rowdy in the local area,public-order,11.348571428571429
+Perceived problem with teenagers hanging around in the local area,anti-social-behaviour,12.14857142857143
+Perceived problem with vandalism and graffiti in the local area,criminal-damage-arson,13.004761904761907
+Worried about burglary,burglary,8.937142857142858
+Worried about car crime,vehicle-crime,7.230476190476191
+Worried about fraud,other-crime,17.61095238095238
+Worried about violent crime,violent-crime,6.7733333333333325
